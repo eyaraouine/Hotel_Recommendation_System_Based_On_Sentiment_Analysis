@@ -42,7 +42,7 @@ This project aims to develop a hybrid hotel recommendation system that leverages
 
  **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Hotel-Recommendation-System-based-on-sentiment-analysis.git
+   git clone [https://github.com/yourusername/Hotel-Recommendation-System-based-on-sentiment-analysis.git](https://github.com/eyaraouine/Hotel_Recommendation_System_Based_On_Sentiment_Analysis.git)
    ```
 ## Project Demo Video
 https://youtu.be/CscYpiVqiJA
