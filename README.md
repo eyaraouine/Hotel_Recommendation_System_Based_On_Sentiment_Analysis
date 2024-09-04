@@ -1,4 +1,4 @@
-# Hotel Recommentation Based On Sentiement Analysis Project Overview 
+# Hotel Recommentation Based On Sentiment Analysis Project Overview 
 ## Description 
 This project aims to develop a hybrid hotel recommendation system that leverages both user profiles and the preferences of similar users to deliver highly personalized hotel recommendations by harnessing data from social media user interests and hotel reviews from Booking.com. The system includes the extraction and clustering of user interests, sentiment analysis of hotel reviews using deep learning models, and a web application built with Django and a Flask API for real-time recommendations.
 ## Project Structure 
